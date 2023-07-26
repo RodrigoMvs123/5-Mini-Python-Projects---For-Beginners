@@ -2,7 +2,9 @@
 
 https://youtu.be/DLn3jOsNRVE 
 
-43:04
+https://raw.githubusercontent.com/RodrigoMvs123/5-Mini-Python-Projects---For-Beginners/main/README.md
+
+
 
 Visual Studio Code
 Explorer
