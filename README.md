@@ -1,4 +1,4 @@
-"# 5 Mini Python Projects - For Beginners"
+## 5 Mini Python Projects - For Beginners
 
 https://youtu.be/DLn3jOsNRVE 
 
@@ -6,12 +6,17 @@ https://raw.githubusercontent.com/RodrigoMvs123/5-Mini-Python-Projects---For-Beg
 
 https://github.com/RodrigoMvs123/5-Mini-Python-Projects---For-Beginners/blame/main/README.md
 
+
+## Source Code
+```
 Visual Studio Code
 Explorer
 OPEN EDITORS
 5-Python-Projects-For-Beginners
 quiz_game.py
+```
 
+```python
 quiz_game.py
 print("Welcome to my computer quiz!")
 
@@ -53,13 +58,18 @@ else:
 
 print("You got " + str(score) + " questions correct!")
 print("You got " + str((score / 4) * 100) + "%.")
+```
 
+## Source Code
+```
 Visual Studio Code
 Explorer
 OPEN EDITORS
 5-Python-Projects-For-Beginners
 number_guesser.py
+```
 
+```python
 number_guesser.py
 import random
 
@@ -96,13 +106,18 @@ while True:
         print("You were below the number!")
 
 print("You got it in", guesses, "guesses")
+```
 
+## Source Code
+```
 Visual Studio Code
 Explorer
 OPEN EDITORS
 5-Python-Projects-For-Beginners
 rock_paper_scissors.py
+```
 
+```python
 rock_paper_scissors.py
 import random
 
@@ -143,13 +158,18 @@ while True:
 print("You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
 print("Goodbye!")
+```
 
+## Source Code
+```
 Visual Studio Code
 Explorer
 OPEN EDITORS
 5-Python-Projects-For-Beginners
 choose_your_own_adventure.py
+```
 
+```python
 choose_your_own_adventure.py
 name = input("Type your name: ")
 print("Welcome", name, "to this adventure!")
@@ -191,13 +211,18 @@ else:
     print('Not a valid option. You lose.')
 
 print("Thank you for trying", name)
+```
 
+## Source Code
+```
 Visual Studio Code
 Explorer
 OPEN EDITORS
 5-Python-Projects-For-Beginners
 password_manager.py
+```
 
+```python
 password_manager.py
 from cryptography.fernet import Fernet
 
@@ -249,10 +274,13 @@ while True:
     else:
         print("Invalid mode.")
         continue
+```
 
-Visual Studio Code
+## Visual Studio Code
 Terminal 
+```
 pip install cryptography 
+```
 
 
 
